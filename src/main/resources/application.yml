@@ -1,0 +1,10 @@
+server:
+  port: 8082
+
+#Mpesa Configurations
+mpesa:
+  daraja:
+    consumer-key: GYiY7UK4Tq5bkBjAWURA7cQKWVOKaDnP
+    consumer-secret: 8gApchzZ7uvssfDm
+    grant-type: client_credentials
+    oauth-endpoint:  https://sandbox.safaricom.co.ke/oauth/v1/generate
