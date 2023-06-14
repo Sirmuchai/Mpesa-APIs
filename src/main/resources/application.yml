@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: ms-mpesa-service
 server:
   port: 8082
 
